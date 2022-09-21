@@ -1,7 +1,5 @@
 **jsoner.rb**
 
-*because i'm lazy*
-
 Convert complex lines of code into compatible .json format for
 VS Code snippts configuration files.
 
