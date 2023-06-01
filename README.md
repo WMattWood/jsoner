@@ -1,4 +1,4 @@
-### jsoner.rb
+# jsoner.rb
 
 Convert complex lines of code into compatible .json format for
 VS Code snippts configuration files.
