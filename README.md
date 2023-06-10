@@ -71,14 +71,14 @@ In the output snippet - there are 3 fields which you should fill in manually.
 2. <-- your shortcut here -->
 3. <-- description of what it does -->
 
-Field (1) will be the name of the snippet as it will appear when the snippet is previewed.
-Field (2) will be the character combination you will need to type inside your code in order to summon the snippet.
+Field (1) will be the name of the snippet as it will appear when the snippet is previewed.\
+Field (2) will be the character combination you will need to type inside your code in order to summon the snippet.\
 Field (3) will be the description of the snippet that appears when the snippet is previewed.
 
 # How Snippets Work in VSCode
 VSCode offers the option to save certain chunks of code which can be automatically populated into your working file with a shortcut. There are a number of these which are active inside VSCode by default, but the user can also add their own custom snippets.  These are stored in JSON files which are specific to each coding language (ie. Javascript snippets are stored in a `javascript.json` file).  In order to add snippets to a given language, you will need to create a file for that language in the Configure User Snippets section of VSCode.  
 
-MacOS:  Code > Preferences > Configure User Snippets
+MacOS:  Code > Preferences > Configure User Snippets\
 Windows: File > Preferences > Configure User Snippets
 
 You can then copy and paste your new snippet into the area indicated inside the top level {} brackets of the JSON file. Additional snippets should be separated by commas within the top level brackets.
